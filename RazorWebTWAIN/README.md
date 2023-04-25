@@ -1,5 +1,5 @@
 # Razor Web TWAIN
-A Razor class library for [Dynamic Web TWAIN](https://www.dynamsoft.com/web-twain/overview/). It allows you to add scanning functionality to your Blazor applications.
+A Razor class library for [Dynamic Web TWAIN](https://www.dynamsoft.com/web-twain/overview/). It allows you to add document scanning functionality to your Blazor applications.
 
 ## Dynamic Web TWAIN Version
 v18.1

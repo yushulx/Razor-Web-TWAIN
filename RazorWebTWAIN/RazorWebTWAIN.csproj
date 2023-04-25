@@ -2,19 +2,19 @@
 
   <PropertyGroup>
     <PackageId>RazorWebTWAIN</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>yushulx</Authors>
     <Company>Dynamsoft</Company>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Description>A Razor class library for Dynamic Web TWAIN. It allows you to develop document scanner applications in .NET MAUI Blazor.</Description>
+    <Description>A Razor class library for Dynamic Web TWAIN. It allows you to add document scanning functionality to your Blazor applications.</Description>
     <PackageProjectUrl>https://github.com/yushulx/Razor-Web-TWAIN</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/yushulx/Razor-Web-TWAIN</RepositoryUrl>
-    <PackageTags>document;razor;blazor;document-scan;document-management;document-scanner;MAUI</PackageTags>
+    <PackageTags>document;razor;blazor;document-scan;document-management;document-scanner;MAUI;web;TWAIN</PackageTags>
     <PackageReleaseNotes>
-    	- Added basic document scanning and uploading methods.
+    	- Updated README.md
     </PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
