@@ -35,6 +35,7 @@
   };
 
   Dynamsoft.OnWebTwainNotFoundOnMacCallback = function (ProductName, InstallerUrl, bHTML5, bIE, bSafari, bSSL, strIEVersion, bSocketSuccess) {
+    InstallerUrl = InstallerUrl.replace("_content/RazorWebTWAIN/dist/", "https://unpkg.com/dwt@18.1.1/dist/");
     var _this = Dynamsoft,
       objUrl = {
         'default': InstallerUrl

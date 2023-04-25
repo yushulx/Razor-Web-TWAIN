@@ -11,6 +11,11 @@ export function showPrompt(message) {
 
 export async function loadDWT(licenseKey) {
     await new Promise((resolve, reject) => {
+        let pdfAddon = document.createElement('script');
+        pdfAddon.type = 'text/javascript';
+        pdfAddon.src = '_content/RazorWebTWAIN/dist/addon/dynamsoft.webtwain.addon.pdf.js';
+        document.head.appendChild(pdfAddon);
+        
         let script = document.createElement('script');
         script.type = 'text/javascript';
         script.src = '_content/RazorWebTWAIN/dist/dynamsoft.webtwain.initiate.js';
