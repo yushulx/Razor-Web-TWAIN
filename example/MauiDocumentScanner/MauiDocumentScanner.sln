@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiDocumentScanner", "MauiDocumentScanner.csproj", "{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorWebTWAIN", "..\..\RazorWebTWAIN\RazorWebTWAIN.csproj", "{4B6A8F2F-454A-4D76-B6FA-5C8DCAC511A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42B38EF-7E0F-4F47-9C01-1A864D0DE827}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4B6A8F2F-454A-4D76-B6FA-5C8DCAC511A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6A8F2F-454A-4D76-B6FA-5C8DCAC511A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6A8F2F-454A-4D76-B6FA-5C8DCAC511A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6A8F2F-454A-4D76-B6FA-5C8DCAC511A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A38EA24-FC6A-4DC7-BE87-C866D84304CC}
+	EndGlobalSection
+EndGlobal
