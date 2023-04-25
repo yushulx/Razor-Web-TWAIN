@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>RazorWebTWAIN</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>yushulx</Authors>
     <Company>Dynamsoft</Company>
     <TargetFramework>net6.0</TargetFramework>
@@ -14,8 +14,9 @@
     <RepositoryUrl>https://github.com/yushulx/Razor-Web-TWAIN</RepositoryUrl>
     <PackageTags>document;razor;blazor;document-scan;document-management;document-scanner;MAUI;web;TWAIN</PackageTags>
     <PackageReleaseNotes>
-    	- Updated README.md
-    </PackageReleaseNotes>
+		- Fixed PDF error
+		- Fixed mac package download
+	</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
