@@ -3,7 +3,7 @@ The repository contains a Razor class library for Dynamic Web TWAIN and a sample
 
 ## How to Run the Sample
 1. Import the project into Visual Studio 2022.
-2. Replace the license key in `MauiDocumentScanner\Pages\Index.razor` with your own.
+2. Replace the [license key](https://www.dynamsoft.com/customer/license/trialLicense?product=dwt) in `MauiDocumentScanner\Pages\Index.razor` with your own.
     ```cs
     await jsInterop.LoadDWT("LICENSE-KEY");
     ```
