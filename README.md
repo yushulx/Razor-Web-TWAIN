@@ -18,4 +18,5 @@ The repository contains a Razor class library for [Dynamic Web TWAIN](https://ww
     ```
 3. Run the project.
     
-    
+## Blog
+[How to Build Desktop and Web Document Scanning App Using .NET MAUI and Blazor](https://www.dynamsoft.com/codepool/dotnet-maui-blazor-document-scanning.html)
